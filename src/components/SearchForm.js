@@ -29,6 +29,7 @@ const SearchForm = () => {
           />
         </div>
       </form>
+      <h1>hi</h1>
       
     </section>
   );
