@@ -29,7 +29,7 @@ const SearchForm = () => {
           />
         </div>
       </form>
-      <h2>search form component</h2>
+      
     </section>
   );
 };
